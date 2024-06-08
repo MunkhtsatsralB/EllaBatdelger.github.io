@@ -4,6 +4,7 @@ Data Analytics & Quantitative Economics, BS @ Dickinson College
 
 ### Work Experience
  Data Analytics Intern @PSECU
+ 
  -Innovate financial reporting processes through strategic automation initiatives, reducing manual effort by 50% and enhancing data accuracy and efficiency.
 
 -Lead the enhancement of financial reports, transforming complex data into user-friendly formats, facilitating better decision-making and improving stakeholder satisfaction.
